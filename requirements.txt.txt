@@ -1,0 +1,16 @@
+streamlit
+numpy
+pandas
+xarray
+geopandas
+matplotlib
+seaborn
+folium
+streamlit-folium
+plotly
+scipy
+rioxarray
+branca
+netCDF4
+rasterio
+mapclassify
